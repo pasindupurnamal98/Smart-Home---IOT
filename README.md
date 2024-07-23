@@ -1,14 +1,8 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/qcBiLqSF)
-Please go under edit and edit this file as needed for your project
-
-# Team Name - 
+# Team Name - IOTBDA-assignment-2024-2024_12_team
 # Project Group - 
-### Group Leader - IT20212232 - Mr. Asiri Gamage (asiriRepos)
-### Member 2 - IT20655334 - Purnamal M C P
+### Group Leader - IT20298494 - Sewwandi W.M.C (SewwandiWM)
+### Member 2 - IT20655334 - Purnamal M C P 
 ### Member 3 - IT20667450 - Munasinghe M.G.P
-### Member 4 - 
+### Member 4 - IT20916626 - Gangoda G.G.W.N
 
-#### Brief Description of your Solution - 
-
-Note - The student's github account should be given in brackets e.g. (asiriRepos), this ideally should be your student id 
-
+#### Brief Description of your Solution - This project is a Smart Home (a model) that automatically manages inside temperature depending on the Heat Index by manipulating the windows automatically. Also, a visualization of the current Heat Index and the predicted Heat Index data up to 12 months ahead and from the current date and 12 months before the current date, using a dashboard for the benefit of the occupants of the home.
